@@ -4,6 +4,3 @@ schedule:
   lessons:
     - description: Building your first Spring application
     - date: "2022-03-03"
-
-    - description: Building your second Spring application
-    - date: "2022-03-10"
