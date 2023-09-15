@@ -3,4 +3,4 @@ schedule:
   year: "2023"
   lessons:
     - description: Building your first Spring application
-    - date: "2022-03-03"
+      date: "2022-03-03"
