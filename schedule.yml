@@ -6,16 +6,14 @@ schedule:
         date: "2022-02-01"
         startTime: "08:30"
         endTime: "10:00"
-        descripition: "Spring 1, introduction to Spring"
-
+        description: "Spring 1, introduction to Spring"
     - lesson_2:
         date: "2022-02-08"
         startTime: "08:30"
         endTime: "10:00"
-        descripition: "Spring 2, how to configure Spring"
-
+        description: "Spring 2, how to configure Spring"
     - lesson_3:
         date: "2022-02-15"
         startTime: "08:30"
         endTime: "10:00"
-        descripition: "Spring 3, building your first spring program"
+        description: "Spring 3, building your first spring program"

@@ -14,12 +14,12 @@ schedule:
       date:
         type: string
         required: true
-      startTime:
-         type: string
-         required: true
-      endTime:
-        type: string
-        required: true
+      #startTime:
+         #type: string
+         #required: true
+      #endTime:
+        #type: string
+        #required: true
       description:
         type: string
         required: true
