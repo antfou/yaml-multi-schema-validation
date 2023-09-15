@@ -2,7 +2,7 @@ computer:
   cpu:
     manufacturer: QuantumTexh
     cores: 16
-    frequncy: 4.8
+    frequncy: 4,8
   memory:
     manufacturer: DataWave Technologies
     size: 256
