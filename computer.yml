@@ -1,3 +1,13 @@
 computer:
   cpu:
-    cores: 8
+    manufacturer: QuantumTexh
+    cores: 16
+    frequncy: 4.8
+  memory:
+    manufacturer: DataWave Technologies
+    size: 256
+    type: DDR4
+  disk:
+    manufacturer: StellarDrive Corporation
+    size: 2000
+    type: Solid State Drive (SSD)
