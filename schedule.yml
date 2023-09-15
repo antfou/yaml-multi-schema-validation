@@ -1,19 +1,6 @@
 schedule:
-  year: "2023"
   program: java
+  year: "2023"
   lessons:
-    - lesson_1:
-        date: "2022-02-01"
-        startTime: "08:30"
-        endTime: "10:00"
-        description: "Spring 1, introduction to Spring"
-    - lesson_2:
-        date: "2022-02-08"
-        startTime: "08:30"
-        endTime: "10:00"
-        description: "Spring 2, how to configure Spring"
-    - lesson_3:
-        date: "2022-02-15"
-        startTime: "08:30"
-        endTime: "10:00"
-        description: "Spring 3, building your first spring program"
+    - description: Building your first Spring application
+      date: "2022-03-03"
