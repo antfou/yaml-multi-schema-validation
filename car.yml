@@ -1,6 +1,7 @@
 car:
   manufacturer: volvo
   model: v70
-  year: 2001
+  year: "2001"
   attributes:
     - red
+  reg: abc123
