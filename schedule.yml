@@ -1,4 +1,18 @@
 schedule:
+  year: "2023"
   program: java
   lessons:
     - date: "2022-02-01"
+    - startTime: "08:30"
+    - endTime: "10:00"
+    - descripition: "Spring 1, introduction to Spring"
+
+    - date: "2022-02-08"
+    - startTime: "08:30"
+    - endTime: "10:00"
+    - descripition: "Spring 2, how to configure Spring"
+
+    - date: "2022-02-15"
+    - startTime: "08:30"
+    - endTime: "10:00"
+    - descripition: "Spring 3, building your first spring program"
