@@ -1,3 +1,11 @@
 person:
   name:
-    first_name: Stig
+    first_name: Emily
+    last_name: Rodriguez
+  age: 19
+  class: sophomore
+  start_year: 2022
+  hobbies:
+    - Guitar
+    - Photography
+    - Hiking
